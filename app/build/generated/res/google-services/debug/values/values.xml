@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">430761759501-vlqp6or3c0dn3og6nafh2ngbpri2ihbu.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://carpetstory-e5a8f.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">430761759501</string>
+    <string name="google_api_key" translatable="false">AIzaSyD6Se0zL0yoeVu9QZq0rPeIDfA34jC8CBc</string>
+    <string name="google_app_id" translatable="false">1:430761759501:android:cf386c2d45c3057cd51644</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD6Se0zL0yoeVu9QZq0rPeIDfA34jC8CBc</string>
+    <string name="google_storage_bucket" translatable="false">carpetstory-e5a8f.appspot.com</string>
+    <string name="project_id" translatable="false">carpetstory-e5a8f</string>
+</resources>

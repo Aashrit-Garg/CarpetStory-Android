@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "430761759501",
+    "firebase_url": "https://carpetstory-e5a8f.firebaseio.com",
+    "project_id": "carpetstory-e5a8f",
+    "storage_bucket": "carpetstory-e5a8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430761759501:android:cf386c2d45c3057cd51644",
+        "android_client_info": {
+          "package_name": "com.example.carpetstory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430761759501-aoo5u3a56nsf9nhrj906ksfbb7i445lo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carpetstory",
+            "certificate_hash": "ae4d33cea7021fc4bc13f065d05ba0f78f0530ef"
+          }
+        },
+        {
+          "client_id": "430761759501-vlqp6or3c0dn3og6nafh2ngbpri2ihbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Se0zL0yoeVu9QZq0rPeIDfA34jC8CBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430761759501-vlqp6or3c0dn3og6nafh2ngbpri2ihbu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "430761759501-rumob44gr80lfph3bk0rj4aknai3dh3f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ru.carpetstory.CarpetStory"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

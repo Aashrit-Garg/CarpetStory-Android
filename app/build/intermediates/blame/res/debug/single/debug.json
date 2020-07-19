@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/menu_main_menu.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/layout_fragment_category.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/layout/fragment_category.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/layout_activity_splash_screen.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/menu_login_menu.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/menu/login_menu.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/layout_activity_home1.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/layout/activity_home1.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/font_copperplate_regular.ttf.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/font/copperplate_regular.ttf"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/drawable_carpet.png.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/drawable/carpet.png"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/layout_fragment_favorite.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/layout/fragment_favorite.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/layout_fragment_search.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/layout_ticket_carpet.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/layout/ticket_carpet.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/menu_add_carpet.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/menu/add_carpet.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/drawable_logo_new.png.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/drawable/logo_new.png"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/menu_favorite_save.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/menu/favorite_save.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/layout_ticket_category.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/layout/ticket_category.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/menu_bottom_nav.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/menu/bottom_nav.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/drawable_mv.png.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/drawable/mv.png"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/layout_activity_view_carpet.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/layout/activity_view_carpet.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/layout_fragment_most_viewed.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/layout/fragment_most_viewed.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/drawable_ic_warning_black_24dp.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/drawable/ic_warning_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/drawable_category.png.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/drawable/category.png"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/layout_activity_owner_login.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/layout/activity_owner_login.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/layout_activity_add_carpet.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/layout/activity_add_carpet.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/layout_activity_carpets_list_view.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/layout/activity_carpets_list_view.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/layout_activity_ar.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/layout/activity_ar.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/build/intermediates/res/merged/debug/font_copperplate.xml.flat",
+        "source": "/Users/aashritgarg/Desktop/Desk/CarpetStory/Android/CarpetStory/app/src/main/res/font/copperplate.xml"
+    }
+]
