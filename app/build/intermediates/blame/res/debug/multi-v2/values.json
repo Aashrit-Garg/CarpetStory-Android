@@ -203,6 +203,23 @@
                     }
                 },
                 {
+                    "source": "/Users/aashritgarg/.gradle/caches/transforms-2/files-2.1/3cd6fb530302e0c0bcb28194241054fb/jetified-filament-android-1.11.0/res/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "53",
+                        "endOffsets": "104"
+                    },
+                    "to": {
+                        "startLines": "623",
+                        "startColumns": "4",
+                        "startOffsets": "39755",
+                        "endColumns": "53",
+                        "endOffsets": "39804"
+                    }
+                },
+                {
                     "source": "/Users/aashritgarg/.gradle/caches/transforms-2/files-2.1/8994cada83533b278f514a44a962203d/navigation-common-2.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,13,19,23,26",
@@ -291,23 +308,6 @@
                         "endLines": "2,10,16,21,22,23,29,34,35,36,39,40,43,46,47,48,49,50,53,56,57,58,59,64,67,70,71,72,77,78,79,82,85,86,89,92,95,98,99,102,105,106,111,112,117,120,123,124,125,126,127,128,129,130,131,132,141,3822,3823,3824,4076",
                         "endColumns": "60,11,47,51,60,45,11,60,59,69,11,67,11,11,61,64,67,66,11,11,66,64,64,11,11,11,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,11,11,64,61,61,61,58,59,60,60,58,11,2575,131,3263,107",
                         "endOffsets": "206,497,829,1089,1150,1196,1439,1692,1752,1822,1955,2023,2152,2278,2340,2405,2473,2540,2663,2788,2855,2920,2985,3166,3287,3408,3474,3541,3751,3820,3886,4011,4137,4204,4330,4457,4582,4709,4774,4900,5023,5088,5296,5363,5543,5663,5783,5848,5910,5972,6034,6093,6153,6214,6275,6334,6709,245785,245917,249181,264687"
-                    }
-                },
-                {
-                    "source": "/Users/aashritgarg/.gradle/caches/transforms-2/files-2.1/dba505a5e0e9e0b3446ad23067a239cd/jetified-filament-android-1.11.0/res/values/values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "53",
-                        "endOffsets": "104"
-                    },
-                    "to": {
-                        "startLines": "623",
-                        "startColumns": "4",
-                        "startOffsets": "39755",
-                        "endColumns": "53",
-                        "endOffsets": "39804"
                     }
                 },
                 {

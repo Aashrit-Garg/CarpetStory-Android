@@ -18,7 +18,7 @@ import com.google.ar.sceneform.ux.TransformableNode;
 public class AR extends AppCompatActivity {
 
     private ArFragment arFragment;
-    private String ASSET_3D = "http://c81cc854.ngrok.io/";
+    private String ASSET_3D = "http://c7438e369c88.ngrok.io/";
     ProgressDialog dialog;
 
     @Override

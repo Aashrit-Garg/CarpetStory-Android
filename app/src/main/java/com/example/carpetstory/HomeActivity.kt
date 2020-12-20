@@ -22,7 +22,7 @@ class HomeActivity : AppCompatActivity() {
     var user: FirebaseUser? = null
     var mGoogleApiClient: GoogleApiClient? = null
     lateinit var mostViewedFragment: MostViewedFragment
-    lateinit var searchFragment: SearchFragment
+//    lateinit var searchFragment: SearchFragment
     lateinit var categoryFragment: CategoryFragment
     lateinit var favoriteFragment: FavoriteFragment
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -62,14 +62,14 @@ class HomeActivity : AppCompatActivity() {
                         .commit()
                 }
 
-                R.id.search -> {
-                    searchFragment = SearchFragment()
-                    supportFragmentManager
-                        .beginTransaction()
-                        .replace(R.id.frameLayout, searchFragment)
-                        .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_OPEN)
-                        .commit()
-                }
+//                R.id.search -> {
+//                    searchFragment = SearchFragment()
+//                    supportFragmentManager
+//                        .beginTransaction()
+//                        .replace(R.id.frameLayout, searchFragment)
+//                        .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_OPEN)
+//                        .commit()
+//                }
 
                 R.id.category -> {
                     categoryFragment = CategoryFragment()

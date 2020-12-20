@@ -8,8 +8,10 @@
 
     <item
         android:id="@+id/search"
+        android:enabled="false"
         android:icon="@android:drawable/ic_search_category_default"
-        android:title="Search"></item>
+        android:title="Search"
+        android:visible="false"></item>
 
     <item
         android:id="@+id/category"
